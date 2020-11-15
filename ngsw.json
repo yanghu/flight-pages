@@ -1,0 +1,84 @@
+{
+  "configVersion": 1,
+  "timestamp": 1605427123756,
+  "index": "/flight-pages/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/flight-pages/4.952af1b99feb91c4e4c7.js",
+        "/flight-pages/5.104bf05d7d4df9a10615.js",
+        "/flight-pages/favicon.ico",
+        "/flight-pages/index.html",
+        "/flight-pages/main.d814ef0f819eba3dea64.js",
+        "/flight-pages/manifest.webmanifest",
+        "/flight-pages/polyfills.35a5ca1855eb057f016a.js",
+        "/flight-pages/runtime.4883f4b47d81e2a469d1.js",
+        "/flight-pages/styles.defdf6a2c43c9fd4b940.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/flight-pages/assets/font/digital-numbers.svg",
+        "/flight-pages/assets/font/digital-numbers.ttf",
+        "/flight-pages/assets/font/digital-numbers.woff",
+        "/flight-pages/assets/font/lcd-font.svg",
+        "/flight-pages/assets/font/lcd-font.ttf",
+        "/flight-pages/assets/font/lcd-font.woff",
+        "/flight-pages/assets/font/lcd-font.woff2",
+        "/flight-pages/digital-numbers.934f85e2b0a3da3bcb8d.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/flight-pages/4.952af1b99feb91c4e4c7.js": "478f460e83d19be5350da6508bc72f51363d2caa",
+    "/flight-pages/5.104bf05d7d4df9a10615.js": "5a6082c08b2e0a6582793b42f6876e904724e2e6",
+    "/flight-pages/assets/font/digital-numbers.svg": "2c0c66f7cf7d8ba721082f0fe007ece42f897954",
+    "/flight-pages/assets/font/digital-numbers.ttf": "428bc9aaf6c6fb8a93e6ce2547eec370a5899034",
+    "/flight-pages/assets/font/digital-numbers.woff": "ab838deb4f68c895d74887a21374f340c65045a1",
+    "/flight-pages/assets/font/lcd-font.svg": "5698c7fec8300cbd597001e620c12b773202585e",
+    "/flight-pages/assets/font/lcd-font.ttf": "5dfea36efc75289e057408e05c29916f212aad1d",
+    "/flight-pages/assets/font/lcd-font.woff": "312d5c4a16db5fcad54a759840301e43f07204d6",
+    "/flight-pages/assets/font/lcd-font.woff2": "bfa2df9c82ad0721c240dee35df09502834556f8",
+    "/flight-pages/digital-numbers.934f85e2b0a3da3bcb8d.woff": "ab838deb4f68c895d74887a21374f340c65045a1",
+    "/flight-pages/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/flight-pages/index.html": "68a73f1e7ea9abfa4ea1c0a78fdeba6daf363ccc",
+    "/flight-pages/main.d814ef0f819eba3dea64.js": "5dfc5b987626b7884d8dd736b2eca334996f952c",
+    "/flight-pages/manifest.webmanifest": "d4ceee722fffe0d2083fd62289ab29a898e11238",
+    "/flight-pages/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "/flight-pages/runtime.4883f4b47d81e2a469d1.js": "d1c843ba09608c769d21a0075e915c34a6498523",
+    "/flight-pages/styles.defdf6a2c43c9fd4b940.css": "03f4f34b44342bfec1f0a98670b89f5bbe0d268f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
